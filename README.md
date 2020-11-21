@@ -1,2 +1,2 @@
-# Pups
-Persevering unsophisticated payload script
+# Pup
+Persevering unsophisticated payload
